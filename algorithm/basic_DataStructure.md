@@ -71,7 +71,7 @@ a[i], *(a+i)
 
 ##### *traverse: 주사, 배열의 요소를 하나씩 차례로 살펴보는 과정
 
-## [보충] 난수 생성
+#### [보충] 난수 생성
 1. rand 함수, srand 함수, time 함수의 선언이 들어 있는 헤더 포함   
 -> C 언어: <time.h>, <stdlib.h>   
 2. srand(time(NULL))   
