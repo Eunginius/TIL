@@ -4,8 +4,8 @@
 
 
 ##### 이전 블로그
-###### [naver blog](https://blog.naver.com/wjddms_e)
-###### [tistory](https://eunginius.tistory.com)
+[naver blog](https://blog.naver.com/wjddms_e)      
+[tistory](https://eunginius.tistory.com)
 
 
 ## Format
