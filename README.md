@@ -2,13 +2,12 @@
 
 **오늘 배우고 느낀 모든 경험을 기록한다.**
 
+---
 
-
-이전 블로그
+### 이전 블로그
 - [naver blog](https://blog.naver.com/wjddms_e)
 - [tistory](https://eunginius.tistory.com)
 
----
 
 ## Format
 - 폴더와 제목은 내용을 짐작할 수 있는 범위 내에서 한국어와 영어를 혼용한다. (되도록이면 영어를 사용한다.)
