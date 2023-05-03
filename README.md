@@ -15,7 +15,7 @@
 - 이전 블로그에 기록된 것도 필요에 의해 다시 공부하며 재작성한다.
 
 ## Algorithm
-
+- [기본 자료구조](algorithm/basic_DataStructure.md)
 
 ## Webhacking
 
