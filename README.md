@@ -2,7 +2,6 @@
 
 **오늘 배우고 느낀 모든 경험을 기록한다.**
 
----
 
 ### 이전 블로그
 - [naver blog](https://blog.naver.com/wjddms_e)
