@@ -91,7 +91,7 @@ a[i], *(a+i)
 [여러 명령이 포함된 매크로는 do-while문을 이용](http://grindawayat.blogspot.com/2015/05/do-while.html)
 
 ## 기수 변환하기
-1. 0~Z까지 저장해 둘 배열 dchar과 변환한 진수를 저장할 배열d를 선언   
+1. 0~Z까지 저장해 둘 배열 dchar과 변환한 진수를 저장할 배열 d를 선언   
 2. 변환할 진수 n과 정수 x를 입력 받기   
 3. dchar[x%n] 값을 d에 저장 후 d 인덱스를 증가(그 다음 자릿수를 저장하기 위함)   
 4. x/=n   
