@@ -4,8 +4,9 @@
 
 2023.05.03 ~ 
 
-###[naver blog](https://blog.naver.com/wjddms_e)
-###[tistory](https://eunginius.tistory.com)
+이전 블로그
+- [naver blog](https://blog.naver.com/wjddms_e)
+- [tistory](https://eunginius.tistory.com)
 
 ---
 
