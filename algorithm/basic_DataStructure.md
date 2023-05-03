@@ -85,7 +85,7 @@ a[i], *(a+i)
 2. 첫 번째 요소와 마지막 요소를 swap
 3. 두 번째 요소와 마지막-1 요소 swap 하는 방식으로 반복 (배열 길이/2 만큼 반복한다. 그럼 홀수인 경우는 정중앙 값만 그대로 유지)   
 
-#### [여러 명령이 포함된 매크로는 do-while문을 이용(#http://grindawayat.blogspot.com/2015/05/do-while.html)
+#### [여러 명령이 포함된 매크로는 do-while문을 이용](#http://grindawayat.blogspot.com/2015/05/do-while.html)
 
 ## 기수 변환하기
 1. 
