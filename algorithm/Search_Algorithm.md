@@ -4,7 +4,6 @@
 - [보초법 다루기](#보초법-다루기)
 2. 이진 검색   
 - [이진 검색 다루기](#이진-검색-다루기)
-- [bsearch 함수](#bsearch-함수)
 ---
 # 선형 검색
 ### 선형 검색 다루기   
@@ -55,8 +54,4 @@
 - a[pc] > key   
 : pr = pc-1    
 
-### bsearch 함수
-헤더: <stdblib.h>   
-형식:
-void *bsearch(const void *key, const void *base, size_t nmemb, size_t size, int(*compare)(const void *, const void *));   
-해설: 
+
