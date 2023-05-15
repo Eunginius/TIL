@@ -57,7 +57,6 @@
 
 ### bsearch 함수
 헤더: <stdblib.h>   
-형식:   
-'''
-void *bsearch(const void *key, const void *base, size_t nmemb, size_t size, int(*compare)(const void *, const void *));
-'''
+형식:
+void *bsearch(const void *key, const void *base, size_t nmemb, size_t size, int(*compare)(const void *, const void *));   
+해설: 
