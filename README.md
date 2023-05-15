@@ -16,9 +16,7 @@
 
 ## Algorithm
 - [기본 자료구조](algorithm/basic_DataStructure.md)
+- [검색 알고리즘](algorithm/Search_Algorithm.md)
 
 ## Webhacking
-
-
-## Django
 
