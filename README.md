@@ -4,7 +4,7 @@
     
     
 ##### 타 블로그
-[naver blog](https://blog.naver.com/wjddms_e)      
+[naver blog](https://blog.naver.com/wjddms_e) // 업데이트 중단          
 [tistory](https://eunginius.tistory.com)
 
 
